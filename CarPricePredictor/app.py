@@ -16,7 +16,7 @@ def WebApp(): #Function
     st.sidebar.write(" ")
     st.sidebar.write(" ")
     
-    """----Setting up of Selectboxes and Slider-----"""
+    #----Setting up of Selectboxes and Slider-----
     
     Companyname = st.sidebar.selectbox(
         "Please Select Car's Company",
