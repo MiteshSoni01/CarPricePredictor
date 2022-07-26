@@ -5,7 +5,7 @@ import streamlit as st
 
 
 
-carsDF = pd.read_csv('Cars_CSV') #Reading the cleaned CSV file.
+carsDF = pd.read_csv('./Cars_CSV') #Reading the cleaned CSV file.
 model = pickle.load(open('XGBModelFinal.pkl', 'rb')) #Loading the Model
 st.set_page_config(page_title='Car Price Predictior - Mitesh Soni', page_icon='car.png') #Standard settings for WebApp
 
