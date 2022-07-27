@@ -4,7 +4,7 @@ Built using Machine Learning Techniques, Integrated and Deployed using Streamlit
 The dataset is taken from Kaggle.
 
 Preprocessing and Feature Engineering is done to clean the dataset.
-Behavior and Relationship of different features is seen through the EDA.
+Behavior and Relationship of different features can be seen through the EDA.
 Used XG Boost Model for Predictions.
 Hyperparameter Optimization Accomplished through Randomized Search CV.
 Final Model was built on top of Optimized Parameters and best resulting Random State.
