@@ -13,6 +13,12 @@ Got Model's Score Around 97%
 Used Streamlit to design the Web App and also to integrate the Model and Various Attributes.
 Deployed Using Streamlit.
 
+#UseofWebApp
+
+- After opening the Web App, there's a sidebar (at the top left corner). 
+- You can fill in the details and Submit (Button at the bottom of the sidebar) the details. 
+- Prediction will pop up. 
+
 Further Improvising will take place in near future.
 
 I hope you like this Web App. 
