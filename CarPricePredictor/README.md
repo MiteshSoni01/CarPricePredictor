@@ -1,3 +1,20 @@
-# theming-showcase
+This is a web app for Car Price Prediction. 
+Built using Machine Learning Techniques, Integrated and Deployed using Streamlit.
 
-This is an example app showcasing how to use themes in [Streamlit](https://streamlit.io/). See the app live [here](https://share.streamlit.io/streamlit/theming-showcase/main). For more info, check out our [docs](https://docs.streamlit.io/en/stable/main_concepts.html#themes) and [blog post](https://blog.streamlit.io/introducing-theming/).
+The dataset is taken from Kaggle.
+
+Preprocessing and Feature Engineering is done to clean the dataset.
+Behavior and Relationship of different features is seen through the EDA.
+Used XG Boost Model for Predictions.
+Hyperparameter Optimization Accomplished through Randomized Search CV.
+Final Model was built on top of Optimized Parameters and best resulting Random State.
+Got Model's Score Around 97%
+
+Used Streamlit to design the Web App and also to integrate the Model and Various Attributes.
+Deployed Using Streamlit.
+
+Further Improvising will take place in near future.
+
+I hope you like this Web App. 
+
+Developed by - https://www.linkedin.com/in/miteshsoni01/
