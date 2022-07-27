@@ -18,7 +18,8 @@ Deployed Using Streamlit.
 - After opening the Web App, there's a sidebar (at the top left corner). 
 - You can fill in the details and Submit (Button at the bottom of the sidebar) the details. 
 - Prediction will pop up. 
-
+- Note: For a better look and feel use Desktop Mode in your browser if not using Desktop/Laptop directly.
+- 
 Further Improvising will take place in near future.
 
 I hope you like this Web App. 
