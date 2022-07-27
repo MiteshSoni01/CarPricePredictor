@@ -13,7 +13,6 @@ def WebApp(): #Function
     st.image('CarPricePredictor/car.png',width=500) #Setting up the Image
     st.sidebar.title('CAR PRICE PREDICTOR') #Setting the Title
     st.sidebar.write(" ") #Formatting Spaces.
-    st.sidebar.write(" ")
     
     #----Setting up of Selectboxes and Slider-----
     
