@@ -14,7 +14,6 @@ def WebApp(): #Function
     st.sidebar.title('CAR PRICE PREDICTOR') #Setting the Title
     st.sidebar.write(" ") #Formatting Spaces.
     st.sidebar.write(" ")
-    st.sidebar.write(" ")
     
     #----Setting up of Selectboxes and Slider-----
     
