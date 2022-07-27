@@ -10,7 +10,7 @@ model = pickle.load(open('CarPricePredictor/XGBModelFinal.pkl', 'rb')) #Loading 
 st.set_page_config(page_title='Car Price Predictior - Mitesh Soni', page_icon='car.png') #Standard settings for WebApp
 
 def WebApp(): #Function 
-    st.image('CarPricePredictor/car.png',width=500) #Setting up the Image
+    st.image('CarPricePredictor/car.png',use_column_width=True) #Setting up the Image
     st.sidebar.title('CAR PRICE PREDICTOR') #Setting the Title
     st.sidebar.write(" ") #Formatting Spaces.
     
